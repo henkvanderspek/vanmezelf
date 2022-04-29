@@ -7,7 +7,7 @@
     "start": "202106",
     "end": "202201",
     "description": "Worked on various proofs of concepts for iOS/macOS/web apps powered by self developed backends running on NodeJS. I liked the freedom I got here developing all sorts of concepts. The downside was being the only developer, which felt isolated when working fully remote also. I decided to move on, since working together with other builders has my preference.",
-    "keywords": ["iOS","macOS","Swift","SwiftUI","UIKit","Mac Catalyst","UDP","Bonjour","Git","Lit","JS","HTML","CSS","NodeJS","Firebase","CloudFlare Workers","Vercel","Postgres","Contenful","Wordpress","Framer","Figma","Blender3D","Heroku","AWS"]
+    "keywords": ["iOS","macOS","Swift","SwiftUI","UIKit","Mac Catalyst","UDP","Bonjour","Git","Lit","JS","HTML","CSS","NodeJS","Firebase","CloudFlare Workers","Vercel","PostgreSQL","Contenful","Wordpress","Framer","Figma","Blender3D","Heroku","AWS"]
   },
   {
     "title": "iOS Developer",
@@ -77,7 +77,7 @@
     "start": "200606",
     "end": "201012",
     "description": "Developed and maintained software applications for in-house developed self-service kiosks. We also developed a remote kiosk management system, custom Windows desktop shell and certified unmanned payment system, all using Qt/C++.",
-    "keywords": ["Windows","C","C++","Qt4","HTML","CSS","JS","Windows Embedded","SVN","Soap"]
+    "keywords": ["Windows","C","C++","Qt4","HTML","CSS","JS","Windows Embedded","SVN","Soap","SQLite"]
   },
   {
     "title": "Full Stack Developer",
@@ -87,7 +87,7 @@
     "start": "200504",
     "end": "200606",
     "description": "Developed applications for in-house developed Saas based CRM for the real estate industry, built using PHP5 and HTML/CSS/JS.",
-    "keywords": ["PHP5","HTML","CSS","JS","Soap"]
+    "keywords": ["PHP5","HTML","CSS","JS","Soap","PostgreSQL"]
   },
   {
     "title": "Full Stack Developer",
@@ -97,7 +97,7 @@
     "start": "200204",
     "end": "200504",
     "description": "Co-responsible for design, development and maintenance of the hospital’s web-based patient information system, built using C++, Java and HTML/CSS/JS.",
-    "keywords": ["C++","Java","JS","HTML","CSS","Soap","CVS"]
+    "keywords": ["C++","Java","JS","HTML","CSS","Soap","CVS","MySQL"]
   },
   {
     "title": "Software Developer",
@@ -117,6 +117,6 @@
     "start": "199801",
     "end": "199912",
     "description": "Responsible for design, development and maintenance of applications running on touchscreen based Windows computers, built using C/C++.",
-    "keywords": ["C","C++","COM","ActiveX","JS","HTML","CSS"]
+    "keywords": ["C","C++","COM","ActiveX","JS","HTML","CSS","SQL Server"]
   }
 ]
