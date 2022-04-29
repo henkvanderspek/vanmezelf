@@ -118,5 +118,5 @@
     "end": "199912",
     "description": "Responsible for design, development and maintenance of applications running on touchscreen based Windows computers, built using C/C++.",
     "keywords": ["C","C++","COM","ActiveX","JS","HTML","CSS"]
-  },
+  }
 ]
