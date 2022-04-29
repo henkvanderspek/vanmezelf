@@ -5,124 +5,125 @@
     "After 24 years my work still doesn't feel like work to me. You can find me behind my laptop a lot, creating things and studying adjacent areas like design and 3D software. If I really want to disconnect I enjoy movies, photography and drawing on actual paper with color pencils.",
   ],
   "positions": [
-  {
-    "title": "Full Stack Developer",
-    "company": "MakeSense Health",
-    "location": "Amsterdam",
-    "sectors": ["Healthcare","Creative"],
-    "start": "202106",
-    "end": "202201",
-    "description": "Worked on various proofs of concepts for iOS/macOS/web apps powered by self developed backends running on NodeJS. I liked the freedom I got here developing all sorts of concepts. The downside was being the only developer, which felt isolated when working fully remote also. I decided to move on, since working together with other builders has my preference.",
-    "keywords": ["iOS","macOS","Swift","SwiftUI","UIKit","Mac Catalyst","UDP","Bonjour","Git","Lit","JS","HTML","CSS","NodeJS","Firebase","CloudFlare Workers","Vercel","PostgreSQL","Contenful","Wordpress","Framer","Figma","Blender3D","Heroku","AWS"]
-  },
-  {
-    "title": "iOS Developer",
-    "company": "Tiqets",
-    "location": "Amsterdam",
-    "sectors": ["Tourism","E-commerce"],
-    "start": "201712",
-    "end": "202104",
-    "description": "Maintained and improved the native iOS app in bi-weekly Scrum sprints, built using Swift. The composition of the mobile team changed a lot while I worked here. Unfortunately COVID19 struck us quite hard and I decided it was time to move on to keep growing.",
-    "keywords": ["iOS","Swift","UIKit","BFF","Git","Amplitude","Looker","Firebase","Adyen","Freshdesk","Leanplum","CoreLocation","Scrum"]
-  },
-  {
-    "title": "iOS Developer",
-    "company": "Capture Camera",
-    "location": "Amsterdam",
-    "sectors": ["Consumer"],
-    "start": "201608",
-    "end": "201705",
-    "description": "Responsible for development, improvements and maintenance of the company’s native iOS app, built using Swift. I enjoyed working for this startup a lot being the first employee. Unfortunately our Series B investment didn't came through due to a personal tragedy of a key investor.",
-    "keywords": ["iOS","Swift","REST","Git","CoreLocation","CoreData","CoreImage","Scrum"]
-  },
-  {
-    "title": "iOS Developer",
-    "company": "Treatwell",
-    "location": "Amsterdam",
-    "sectors": ["Hair & Beauty","E-commerce"],
-    "start": "201503",
-    "end": "201607",
-    "description": "Responsible for maintenance of the company’s native iOS E-commerce app, built using Objective-C. In parallel a brand we started a new version of the app using Swift in cooperation with fellow developers in Vilnius, Lithuania. We were acquired by a competitor and we had to downsize, hence my decision to move on.",
-    "keywords": ["iOS","Swift","JSON","Git","Objective-C","CoreLocation","Adyen","Scrum"]
-  },
-  {
-    "title": "iOS Developer",
-    "company": "TravelBird",
-    "location": "Amsterdam",
-    "sectors": ["Tourism","E-commerce"],
-    "start": "201306",
-    "end": "201503",
-    "description": "Co-responsible for development and maintenance of the company’s native iOS app, built using Objective-C. This was my first stretch being a mobile developer. It was for the whole team and we had a lot of fun breaking ground and figuring things out together.",
-    "keywords": ["iOS","Objective-C","JSON","Git","Scrum","Adyen","CoreData"]
-  },
-  {
-    "title": "Software Developer",
-    "company": "EnzoSystems",
-    "location": "Almere",
-    "sectors": ["Hospitality"],
-    "start": "201207",
-    "end": "201210",
-    "description": "Improved an in-house developed Windows touchscreen based desktop shell, built using Qt/C++",
-    "keywords": ["Windows","C","C++","Qt4"]
-  },
-  {
-    "title": "Software Developer",
-    "company": "IJsfontein",
-    "location": "Amsterdam",
-    "sectors": ["Serious Games"],
-    "start": "201101",
-    "end": "201202",
-    "description": "Responsible for development of touchscreen based software for a room filling installation for Paleis Het Loo, built using Qt/C++. Also worked on a mobile web application for Naturalis, built using HTML/CSS/JS, and the company website using Wordpress.",
-    "keywords": ["Windows","C++","Qt4","HTML","CSS","JS","jQuery","WordPress"]
-  },
-  {
-    "title": "Software Developer",
-    "company": "EnzoSystems",
-    "location": "Almere",
-    "sectors": ["Hospitality"],
-    "start": "200606",
-    "end": "201012",
-    "description": "Developed and maintained software applications for in-house developed self-service kiosks. We also developed a remote kiosk management system, custom Windows desktop shell and certified unmanned payment system, all using Qt/C++.",
-    "keywords": ["Windows","C","C++","Qt4","HTML","CSS","JS","Windows Embedded","SVN","Soap","SQLite"]
-  },
-  {
-    "title": "Full Stack Developer",
-    "company": "Yes-co",
-    "location": "Almere",
-    "sectors": ["Real Estate","SaaS"],
-    "start": "200504",
-    "end": "200606",
-    "description": "Developed applications for in-house developed Saas based CRM for the real estate industry, built using PHP5 and HTML/CSS/JS.",
-    "keywords": ["PHP5","HTML","CSS","JS","Soap","PostgreSQL"]
-  },
-  {
-    "title": "Full Stack Developer",
-    "company": "St. Antonius Ziekenhuis",
-    "location": "Utrecht",
-    "sectors": ["Healthcare"],
-    "start": "200204",
-    "end": "200504",
-    "description": "Co-responsible for design, development and maintenance of the hospital’s web-based patient information system, built using C++, Java and HTML/CSS/JS.",
-    "keywords": ["C++","Java","JS","HTML","CSS","Soap","CVS","MySQL"]
-  },
-  {
-    "title": "Software Developer",
-    "company": "Enzo Interactive Media",
-    "location": "Almere",
-    "sectors": ["Retail"],
-    "start": "200001",
-    "end": "200203",
-    "description": "Responsible for design, development and maintenance of applications running on touchscreen based Windows computers, built using C/C++.",
-    "keywords": ["C","C++","COM","ActiveX"]
-  },
-  {
-    "title": "Software Developer",
-    "company": "KSI Interactive",
-    "location": "Almere",
-    "sectors": ["Retail"],
-    "start": "199801",
-    "end": "199912",
-    "description": "Responsible for design, development and maintenance of applications running on touchscreen based Windows computers, built using C/C++.",
-    "keywords": ["C","C++","COM","ActiveX","JS","HTML","CSS","SQL Server"]
-  }
-]
+    {
+      "title": "Full Stack Developer",
+      "company": "MakeSense Health",
+      "location": "Amsterdam",
+      "sectors": ["Healthcare","Creative"],
+      "start": "202106",
+      "end": "202201",
+      "description": "Worked on various proofs of concepts for iOS/macOS/web apps powered by self developed backends running on NodeJS. I liked the freedom I got here developing all sorts of concepts. The downside was being the only developer, which felt isolated when working fully remote also. I decided to move on, since working together with other builders has my preference.",
+      "keywords": ["iOS","macOS","Swift","SwiftUI","UIKit","Mac Catalyst","UDP","Bonjour","Git","Lit","JS","HTML","CSS","NodeJS","Firebase","CloudFlare Workers","Vercel","PostgreSQL","Contenful","Wordpress","Framer","Figma","Blender3D","Heroku","AWS"]
+    },
+    {
+      "title": "iOS Developer",
+      "company": "Tiqets",
+      "location": "Amsterdam",
+      "sectors": ["Tourism","E-commerce"],
+      "start": "201712",
+      "end": "202104",
+      "description": "Maintained and improved the native iOS app in bi-weekly Scrum sprints, built using Swift. The composition of the mobile team changed a lot while I worked here. Unfortunately COVID19 struck us quite hard and I decided it was time to move on to keep growing.",
+      "keywords": ["iOS","Swift","UIKit","BFF","Git","Amplitude","Looker","Firebase","Adyen","Freshdesk","Leanplum","CoreLocation","Scrum"]
+    },
+    {
+      "title": "iOS Developer",
+      "company": "Capture Camera",
+      "location": "Amsterdam",
+      "sectors": ["Consumer"],
+      "start": "201608",
+      "end": "201705",
+      "description": "Responsible for development, improvements and maintenance of the company’s native iOS app, built using Swift. I enjoyed working for this startup a lot being the first employee. Unfortunately our Series B investment didn't came through due to a personal tragedy of a key investor.",
+      "keywords": ["iOS","Swift","REST","Git","CoreLocation","CoreData","CoreImage","Scrum"]
+    },
+    {
+      "title": "iOS Developer",
+      "company": "Treatwell",
+      "location": "Amsterdam",
+      "sectors": ["Hair & Beauty","E-commerce"],
+      "start": "201503",
+      "end": "201607",
+      "description": "Responsible for maintenance of the company’s native iOS E-commerce app, built using Objective-C. In parallel a brand we started a new version of the app using Swift in cooperation with fellow developers in Vilnius, Lithuania. We were acquired by a competitor and we had to downsize, hence my decision to move on.",
+      "keywords": ["iOS","Swift","JSON","Git","Objective-C","CoreLocation","Adyen","Scrum"]
+    },
+    {
+      "title": "iOS Developer",
+      "company": "TravelBird",
+      "location": "Amsterdam",
+      "sectors": ["Tourism","E-commerce"],
+      "start": "201306",
+      "end": "201503",
+      "description": "Co-responsible for development and maintenance of the company’s native iOS app, built using Objective-C. This was my first stretch being a mobile developer. It was for the whole team and we had a lot of fun breaking ground and figuring things out together.",
+      "keywords": ["iOS","Objective-C","JSON","Git","Scrum","Adyen","CoreData"]
+    },
+    {
+      "title": "Software Developer",
+      "company": "EnzoSystems",
+      "location": "Almere",
+      "sectors": ["Hospitality"],
+      "start": "201207",
+      "end": "201210",
+      "description": "Improved an in-house developed Windows touchscreen based desktop shell, built using Qt/C++",
+      "keywords": ["Windows","C","C++","Qt4"]
+    },
+    {
+      "title": "Software Developer",
+      "company": "IJsfontein",
+      "location": "Amsterdam",
+      "sectors": ["Serious Games"],
+      "start": "201101",
+      "end": "201202",
+      "description": "Responsible for development of touchscreen based software for a room filling installation for Paleis Het Loo, built using Qt/C++. Also worked on a mobile web application for Naturalis, built using HTML/CSS/JS, and the company website using Wordpress.",
+      "keywords": ["Windows","C++","Qt4","HTML","CSS","JS","jQuery","WordPress"]
+    },
+    {
+      "title": "Software Developer",
+      "company": "EnzoSystems",
+      "location": "Almere",
+      "sectors": ["Hospitality"],
+      "start": "200606",
+      "end": "201012",
+      "description": "Developed and maintained software applications for in-house developed self-service kiosks. We also developed a remote kiosk management system, custom Windows desktop shell and certified unmanned payment system, all using Qt/C++.",
+      "keywords": ["Windows","C","C++","Qt4","HTML","CSS","JS","Windows Embedded","SVN","Soap","SQLite"]
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "Yes-co",
+      "location": "Almere",
+      "sectors": ["Real Estate","SaaS"],
+      "start": "200504",
+      "end": "200606",
+      "description": "Developed applications for in-house developed Saas based CRM for the real estate industry, built using PHP5 and HTML/CSS/JS.",
+      "keywords": ["PHP5","HTML","CSS","JS","Soap","PostgreSQL"]
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "St. Antonius Ziekenhuis",
+      "location": "Utrecht",
+      "sectors": ["Healthcare"],
+      "start": "200204",
+      "end": "200504",
+      "description": "Co-responsible for design, development and maintenance of the hospital’s web-based patient information system, built using C++, Java and HTML/CSS/JS.",
+      "keywords": ["C++","Java","JS","HTML","CSS","Soap","CVS","MySQL"]
+    },
+    {
+      "title": "Software Developer",
+      "company": "Enzo Interactive Media",
+      "location": "Almere",
+      "sectors": ["Retail"],
+      "start": "200001",
+      "end": "200203",
+      "description": "Responsible for design, development and maintenance of applications running on touchscreen based Windows computers, built using C/C++.",
+      "keywords": ["C","C++","COM","ActiveX"]
+    },
+    {
+      "title": "Software Developer",
+      "company": "KSI Interactive",
+      "location": "Almere",
+      "sectors": ["Retail"],
+      "start": "199801",
+      "end": "199912",
+      "description": "Responsible for design, development and maintenance of applications running on touchscreen based Windows computers, built using C/C++.",
+      "keywords": ["C","C++","COM","ActiveX","JS","HTML","CSS","SQL Server"]
+    }
+  ]
+}
