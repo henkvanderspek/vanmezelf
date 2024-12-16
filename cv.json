@@ -42,7 +42,7 @@
       "sectors": ["Tourism","E-commerce"],
       "start": "201712",
       "end": "202104",
-      "description": "Maintained and improved the native iOS app in bi-weekly Scrum sprints, built using Swift. The composition of the mobile team changed a lot while I worked here. Unfortunately COVID19 struck us quite hard and I decided it was time to move on to keep growing.",
+      "description": "Maintained and enhanced a native iOS e-commerce application built with Swift, delivering features and improvements in bi-weekly Scrum sprints. Despite the mobile team's pivotal role, it was often undervalued within the company, leading to challenges such as high turnover. The impact of COVID-19 hit both the tourism industry and the organization hard, and after a year, I decided to seek opportunities that would allow for continued growth and learning.",
       "keywords": ["iOS","Swift","UIKit","BFF","Git","Amplitude","Looker","Firebase","Adyen","Freshdesk","Leanplum","CoreLocation","Scrum"]
     },
     {
