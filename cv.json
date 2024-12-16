@@ -1,10 +1,30 @@
 {
   "about": [
     "I enjoy creating minimalistic digital products which improve our lives. Somewhere between product design and implementation I feel most at home. Problem solving is my second nature, zooming in or out whenever that's needed, never losing sight of users and stakeholders.",
-    "After dropping out of high school I started working at the age of 18 in administrative roles, mainly because I was a late bloomer and felt out of place in the education system with an abundance of creativity and somewhat stubborn intuition. Once I had to work with computers I was hooked and started learning programming at home, never looking back.",
-    "After 24 years my work still doesn't feel like work to me. You can find me behind my laptop a lot, creating things and studying adjacent areas like design and 3D software. If I really want to disconnect I enjoy movies, photography and drawing on actual paper with color pencils."
+    "After leaving high school at 18, I began working in administrative roles. As a late bloomer with abundant creativity and a strong, intuitive streak, I often felt out of place in the traditional education system. However, everything changed when I was introduced to computers and I was immediately hooked. I started learning programming at home and never looked back.",
+    "Even after 27 years, my work still feels like a passion rather than a job. You’ll often find me behind my desk, creating and exploring new ideas or delving into adjacent fields like design and 3D software. When I want to disconnect, I turn to movies, series, or drawing on paper with colored pencils or on iPad."
   ],
   "positions": [
+    {
+      "title": "Apple Designer/Developer",
+      "company": "Independent",
+      "location": "Almere",
+      "sectors": ["Graphics & Design", "Development"],
+      "start": "202408",
+      "end": "?",
+      "description": "During this period, I explored a variety of ideas and concepts while challenging myself technically. I experimented with extending applications using scripting frameworks, pure JavaScript, Python, and implemented a SwiftUI-backed React reconciler. I also released a macOS app called Patani for creating patterns and developed an offline journaling app for iOS, which I ultimately chose not to release.",
+      "keywords": ["macOS","iOS","Swift","SwiftUI","AppKit","UIKit","Git","JS","HTML","CSS","React","Python","SQLite"]
+    },
+    {
+      "title": "Senior Engineer",
+      "company": "Storio Group",
+      "location": "Amsterdam",
+      "sectors": ["Personalized Consumer Goods","E-commerce"],
+      "start": "202208",
+      "end": "202407",
+      "description": "As part of a two-developer team, I was responsible for maintaining and implementing new features in a complex macOS application, working with a vast and intricate codebase that leveraged numerous internal frameworks. Our work spanned multiple vendors and brands, both within and outside the App Store, requiring significant operational management. Notable projects included developing an internal web server for seamless mobile uploads and integrating Google Photos. While the role provided stability, I ultimately decided to pursue new opportunities that aligned more closely with my passion for innovation and creativity.",
+      "keywords": ["macOS","Swift","SwiftUI","AppKit","Git","JS","HTML","CSS","Google Photos"]
+    },
     {
       "title": "Full Stack Developer",
       "company": "MakeSense Health",
@@ -12,7 +32,7 @@
       "sectors": ["Healthcare","Creative"],
       "start": "202106",
       "end": "202201",
-      "description": "Worked on various proofs of concepts for iOS/macOS/web apps powered by self developed backends running on NodeJS. I liked the freedom I got here developing all sorts of concepts. The downside was being the only developer, which felt isolated when working fully remote also. I decided to move on, since working together with other builders has my preference.",
+      "description": "Developed various proof-of-concept iOS, macOS, and web applications, powered by self-designed backends running on Node.js. I valued the creative freedom in exploring diverse concepts, but working as the sole developer in a fully remote environment felt isolating. Seeking collaboration and teamwork, I decided to transition to roles that align more closely with my preference for building alongside others.",
       "keywords": ["iOS","macOS","Swift","SwiftUI","UIKit","Mac Catalyst","UDP","Bonjour","Git","Lit","JS","HTML","CSS","NodeJS","Firebase","CloudFlare Workers","Vercel","PostgreSQL","Contenful","Wordpress","Framer","Figma","Blender3D","Heroku","AWS"]
     },
     {
@@ -32,7 +52,7 @@
       "sectors": ["Consumer"],
       "start": "201608",
       "end": "201705",
-      "description": "Responsible for development, improvements and maintenance of the company’s native iOS app, built using Swift. I enjoyed working for this startup a lot being the first employee. Unfortunately our Series B investment didn't came through due to a personal tragedy of a key investor.",
+      "description": "Responsible for development, improvements and maintenance of the company’s native iOS app, built using Swift. I enjoyed working for this startup a lot being the first employee. Sadly our Series B investment didn't came through due to a personal tragedy of a key investor and we had to close shop.",
       "keywords": ["iOS","Swift","REST","Git","CoreLocation","CoreData","CoreImage","Scrum"]
     },
     {
