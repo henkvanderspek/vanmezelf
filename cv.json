@@ -12,7 +12,7 @@
       "sectors": ["Graphics & Design", "Development"],
       "start": "202408",
       "end": "?",
-      "description": "During this period, I explored a variety of ideas and concepts while challenging myself technically. I experimented with extending applications using scripting frameworks, pure JavaScript, Python, and implemented a SwiftUI-backed React reconciler. I also released a macOS app called Patani for creating patterns and developed an offline journaling app for iOS, which I ultimately chose not to release.",
+      "description": "During this period, I explored a wide range of ideas and concepts while pushing my technical boundaries. I focused heavily on extending applications with scripting frameworks like JavaScript and Python, and I built my own React reconciler, supported by a custom SwiftUI renderer. I also developed a YAML-based SwiftUI format that includes state management and embedded a Linux environment using the Virtualization Framework. Additionally, I worked on Cooper, an iOS app designed to host mini apps with their own SQLite database, which was built on top of my React reconciler, as well as an editor for macOS. I released a macOS app called Patani for creating patterns, and developed an offline journaling app for iOS, though I ultimately decided not to release it. On a personal note, I've been dedicating time to supporting my parents, as my father is battling cancer and they are both aging.",
       "keywords": ["macOS","iOS","Swift","SwiftUI","AppKit","UIKit","Git","JS","HTML","CSS","React","Python","SQLite"]
     },
     {
